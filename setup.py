@@ -12,8 +12,8 @@ setup(
     install_requires=[
         # Add your dependencies here if you have any
     ],
-    author='Your Name',
-    author_email='your.email@example.com',
+    author='piyal94',
+    author_email='shahriarpiyal.com',
     description='A simple math quiz game',
     license='MIT',
     url='https://github.com/piyal94/dsss_homework_2_',
