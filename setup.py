@@ -13,7 +13,7 @@ setup(
         # Add your dependencies here if you have any
     ],
     author='piyal94',
-    author_email='shahriarpiyal.com',
+    author_email='shahriarpiyal@gmail.com',
     description='A simple math quiz game',
     license='MIT',
     url='https://github.com/piyal94/dsss_homework_2_',
